@@ -20,18 +20,11 @@
 
 ### 🚀 Featured Projects
 
-- [**AI-Powered Chatbot**](https://github.com/username/AI-Chatbot)  
+- [**AI-Powered Chatbot**]  https://github.com/sushii15/ai_wellness_coach- 
   🤖 A conversational chatbot using **Natural Language Processing** and **Flask**.  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
   ⭐ **50 stars** | 🔄 **20 forks**
 
-- [**Portfolio Website**](https://github.com/username/Portfolio)  
-  🌐 A fully responsive personal website to showcase my projects and resume.  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-
-- [**LeetCode Solutions**](https://github.com/username/LeetCode-Solutions)  
-  📘 A collection of my solutions to challenging coding problems on **LeetCode**.  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 
 ---
 

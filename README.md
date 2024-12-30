@@ -1,4 +1,4 @@
-# Hi there, I'm Sasha! 👋
+# Hi there,  👋
 
 🎓 **Computer Engineering Student @ Purdue University**  
 💡 Passionate about **AI, Machine Learning, and Software Development**  
